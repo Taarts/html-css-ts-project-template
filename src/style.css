@@ -1,4 +1,7 @@
 :root {
+  font-size: 16px/1 em;
+  font-family: 'Sofia Pro', sans-serif;
+  color: ;
 }
 
 a {
@@ -10,8 +13,13 @@ body {
 }
 
 h1 {
+  font-size: 4rem;
 }
 
+.subhead {
+}
+p {
+}
 button {
 }
 button:hover {
